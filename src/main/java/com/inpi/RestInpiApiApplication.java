@@ -8,6 +8,7 @@ public class RestInpiApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestInpiApiApplication.class, args);
+		
 	}
 
 }
